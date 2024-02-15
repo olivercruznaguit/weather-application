@@ -10,7 +10,7 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
-h1, h2, h3 {
+h1, h2, h3, button {
   font-family: 'Playfair Display', serif;
   font-weight: 600; /* Semi-bold */
 }
